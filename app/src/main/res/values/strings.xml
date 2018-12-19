@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">candle</string>
+    <string name="sample_device_admin">lockNow</string>
+    <string name="sample_device_admin_description">to lock the screen</string>
+</resources>
